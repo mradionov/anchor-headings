@@ -1,0 +1,14 @@
+.anchor-headings-chrome-ext-anchor {
+  margin: 0 5px;
+  font-weight: bold;
+  font-size: inherit;
+  color: #7ebeff;
+}
+
+.anchor-headings-chrome-ext-anchor:visited {
+  color: #7ebeff;
+}
+
+.anchor-headings-chrome-ext-anchor:active {
+  color: #faa700;
+}
