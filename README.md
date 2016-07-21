@@ -15,3 +15,6 @@ In long articles and tutorials each paragraph usually has it's own heading. Some
 
 ![Sample](sample.jpg)
 
+### License
+
+[MIT](LICENSE)
